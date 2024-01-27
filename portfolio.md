@@ -37,16 +37,9 @@ Yeni nesil eğlenceli anketlerle kullanıcıların güzel vakit geçirmesini sa�
 **[Github (Private)](https://github.com/ruwiss/kac_kisiyiz)**
 <br>
 <br>
-*Uygulama Videosu*
-<br>
-[![Videoyu izle](https://img.youtube.com/vi/qyB8MbLzqq4/mqdefault.jpg)](https://www.youtube.com/watch?v=qyB8MbLzqq4)
-<br>
-<br>
-*Uygulama Panel Videosu*
-<br>
-[![Videoyu izle](https://img.youtube.com/vi/u8v-iAmGF1s/mqdefault.jpg)](https://youtu.be/u8v-iAmGF1s)
-<br>
-<br>
+Uygulama           |  Panel
+:-------------------------:|:-------------------------:
+[![Videoyu izle](https://img.youtube.com/vi/qyB8MbLzqq4/mqdefault.jpg)](https://www.youtube.com/watch?v=qyB8MbLzqq4)  |  [![Videoyu izle](https://img.youtube.com/vi/u8v-iAmGF1s/mqdefault.jpg)](https://youtu.be/u8v-iAmGF1s)
 
 ___
 
@@ -76,14 +69,9 @@ YouTube API ve harici API kullanarak popüler müziklerden haberdar olma, müzik
 **[GitHub Bağlantısı](https://github.com/ruwiss/flutter_music_video_downloader)**
 <br>
 <br>
-*Uygulama Videosu*
-<br>
-[![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtu.be/QwB66QSVeGI)
-<br>
-<br>
-*Uygulama Panel Videosu*
-<br>
-[![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtube.com/shorts/tOdMb4F3ZIg)
+Uygulama           |  Panel
+:-------------------------:|:-------------------------:
+[![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtu.be/QwB66QSVeGI)  |  [![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtube.com/shorts/tOdMb4F3ZIg)
 <br>
 <br>
 
