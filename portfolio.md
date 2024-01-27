@@ -34,9 +34,28 @@ Yeni nesil eğlenceli anketlerle kullanıcıların güzel vakit geçirmesini sa�
 **[Github (Private)](https://github.com/ruwiss/kac_kisiyiz)**
 <br>
 <br>
-![Kaç Kişiyiz?](media/kackisiyiz.mp4)
+*Uygulama Videosu*
+<br>
+[![Videoyu izle](https://img.youtube.com/vi/qyB8MbLzqq4/mqdefault.jpg)](https://www.youtube.com/watch?v=qyB8MbLzqq4)
 <br>
 <br>
-![Kaç Kişiyiz?](media/kackisiyiz-panel.mp4)
+*Uygulama Panel Videosu*
+<br>
+[![Videoyu izle](https://img.youtube.com/vi/u8v-iAmGF1s/mqdefault.jpg)](https://youtu.be/u8v-iAmGF1s)
+<br>
+<br>
+
+**Blogspot Mobile**
+<br>
+Google'ın [Blogger.com](https://blogger.com) servisinin API'ını kullanan bir blog yazma uygulaması
+<br>
+**[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
+<br>
+**[Github (Private)](https://github.com/ruwiss/blogspot_mobile)**
+<br>
+<br>
+*Uygulama Videosu*
+<br>
+[![Videoyu izle](https://img.youtube.com/vi/xu1hDuQQU7E/mqdefault.jpg)](https://youtu.be/xu1hDuQQU7E)
 <br>
 <br>
