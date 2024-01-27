@@ -12,6 +12,7 @@
 **Gün Sayacı: Kaç Gün Kaldı?**
 <br>
 <img src="media/gun-sayaci-logo.png" alt="gün sayacı logo" width="25"/>
+<br>
 <br/>
 **[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
 <br>
@@ -28,7 +29,8 @@ Kullanıcıların özel günlerini planlayarak kalan süreyi geri sayım olarak 
 **Kaç Kişiyiz? Anket Uygulaması**
 <br>
 <img src="media/kac-kisiyiz-logo.png" alt="gün sayacı logo" width="25"/>
-<br/>
+<br>
+<br>
 Yeni nesil eğlenceli anketlerle kullanıcıların güzel vakit geçirmesini sağlayıp pasif gelir elde etmelerini amaçlar.
 <br>
 **[Github (Private)](https://github.com/ruwiss/kac_kisiyiz)**
@@ -45,9 +47,11 @@ Yeni nesil eğlenceli anketlerle kullanıcıların güzel vakit geçirmesini sa�
 <br>
 <br>
 
+
 **Blogspot Mobile**
 <br>
 Google'ın [Blogger.com](https://blogger.com) servisinin API'ını kullanan bir blog yazma uygulaması
+<br>
 <br>
 **[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
 <br>
@@ -57,5 +61,38 @@ Google'ın [Blogger.com](https://blogger.com) servisinin API'ını kullanan bir 
 *Uygulama Videosu*
 <br>
 [![Videoyu izle](https://img.youtube.com/vi/xu1hDuQQU7E/mqdefault.jpg)](https://youtu.be/xu1hDuQQU7E)
+<br>
+<br>
+
+
+**Music Downloader (MeloTune)**
+<br>
+YouTube API ve harici API kullanarak popüler müziklerden haberdar olma, müzikleri mp3, mp4 formatında indirme ve oynatma listeleri oluşturmayı sağlar.
+<br>
+<br>
+**[GitHub Bağlantısı](https://github.com/ruwiss/flutter_music_video_downloader)**
+<br>
+<br>
+*Uygulama Videosu*
+<br>
+[![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtu.be/QwB66QSVeGI)
+<br>
+<br>
+*Uygulama Panel Videosu*
+<br>
+[![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtube.com/shorts/tOdMb4F3ZIg)
+<br>
+<br>
+
+**Music Downloader (Elen Music)**
+<br>
+YouTube API ve harici API kullanarak popüler müziklerden haberdar olma, müzikleri mp3, mp4 formatında indirme ve oynatma listeleri oluşturmayı sağlar.
+<br>
+<br>
+**[GitHub (Private)](https://github.com/ruwiss/elen_music)**
+<br>
+Resim 1            |  Resim 2
+:-------------------------:|:-------------------------:
+![](media/elen1.png)  |  ![](media/elen2.png)
 <br>
 <br>
