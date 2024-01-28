@@ -52,7 +52,7 @@ ___
 Google'ın [Blogger.com](https://blogger.com) servisinin API'ını kullanan bir blog yazma uygulaması
 <br>
 <br>
-**[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
+**[Play Store](https://play.google.com/store/apps/details?id=com.rw.blogspot)**
 <br>
 **[Github (Private)](https://github.com/ruwiss/blogspot_mobile)**
 <br>
@@ -88,6 +88,8 @@ ___
 <br>
 YouTube API ve harici API kullanarak popüler müziklerden haberdar olma, müzikleri mp3, mp4 formatında indirme ve oynatma listeleri oluşturmayı sağlar.
 <br>
+<br>
+**[Play Store](https://play.google.com/store/apps/details?id=com.rw.music_app)**
 <br>
 **[GitHub (Private)](https://github.com/ruwiss/elen_music)**
 <br>
