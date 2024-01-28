@@ -9,6 +9,16 @@
 
 
 ## Örnek Projeler
+**Dini Atlas (Bu Proje Yapım Aşamasında)**
+<br>
+<br>
+**[Github (Private)](https://github.com/ruwiss/dini_atlas)**
+<br>
+<br>
+![Gün Sayacı](media/dini-atlas.png)
+<br>
+<br>
+___
 **Gün Sayacı: Kaç Gün Kaldı?**
 <br>
 **[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
