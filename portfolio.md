@@ -11,9 +11,6 @@
 ## Örnek Projeler
 **Gün Sayacı: Kaç Gün Kaldı?**
 <br>
-<img src="media/gun-sayaci-logo.png" alt="gün sayacı logo" width="25"/>
-<br>
-<br/>
 **[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
 <br>
 **[Github (Private)](https://github.com/ruwiss/gun_sayaci)**
@@ -29,15 +26,12 @@ ___
 
 **Kaç Kişiyiz? Anket Uygulaması**
 <br>
-<img src="media/kac-kisiyiz-logo.png" alt="gün sayacı logo" width="25"/>
-<br>
-<br>
 Yeni nesil eğlenceli anketlerle kullanıcıların güzel vakit geçirmesini sağlayıp pasif gelir elde etmelerini amaçlar.
 <br>
 **[Github (Private)](https://github.com/ruwiss/kac_kisiyiz)**
 <br>
 <br>
-Uygulama           |  Panel
+Uygulama Videosu           |  Panel Videosu
 :-------------------------:|:-------------------------:
 [![Videoyu izle](https://img.youtube.com/vi/qyB8MbLzqq4/mqdefault.jpg)](https://www.youtube.com/watch?v=qyB8MbLzqq4)  |  [![Videoyu izle](https://img.youtube.com/vi/u8v-iAmGF1s/mqdefault.jpg)](https://youtu.be/u8v-iAmGF1s)
 
@@ -51,6 +45,9 @@ Google'ın [Blogger.com](https://blogger.com) servisinin API'ını kullanan bir 
 **[Play Store](https://play.google.com/store/apps/details?id=com.rw.gunsayaci)**
 <br>
 **[Github (Private)](https://github.com/ruwiss/blogspot_mobile)**
+<br>
+<br>
+![Gün Sayacı](media/blogspot.png)
 <br>
 <br>
 *Uygulama Videosu*
@@ -69,7 +66,7 @@ YouTube API ve harici API kullanarak popüler müziklerden haberdar olma, müzik
 **[GitHub Bağlantısı](https://github.com/ruwiss/flutter_music_video_downloader)**
 <br>
 <br>
-Uygulama           |  Panel
+Uygulama Videosu         |  Panel Videosu
 :-------------------------:|:-------------------------:
 [![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtu.be/QwB66QSVeGI)  |  [![Videoyu izle](https://img.youtube.com/vi/QwB66QSVeGI/mqdefault.jpg)](https://youtube.com/shorts/tOdMb4F3ZIg)
 <br>
@@ -91,4 +88,44 @@ Resim 1            |  Resim 2
 <br>
 
 
+___
+
+**Soru Havuzu - Açıköğretim**
+<br>
+<br>
+**[Play Store](https://play.google.com/store/apps/details?id=com.ozan.aofsorular)**
+<br>
+**[Github (Private)](https://github.com/ruwiss/soru_havuzu)**
+<br>
+<br>
+Uygulama Videosu          |  Panel Videosu
+:-------------------------:|:-------------------------:
+[![Videoyu izle](https://img.youtube.com/vi/-lgAH5gE55Y/mqdefault.jpg)](https://youtu.be/-lgAH5gE55Y)  |  [![Videoyu izle](https://img.youtube.com/vi/COTXeeCqZEo/mqdefault.jpg)](https://youtu.be/COTXeeCqZEo)
+<br>
+
+___
+**Lingo - İngilizce Sesli Pratik**
+<br>
+<br>
+**[Play Store](https://play.google.com/store/apps/details?id=com.ruwis.lingo)**
+<br>
+**[Github (Private)](https://github.com/ruwiss/lingo)**
+<br>
+<br>
+![Gün Sayacı](media/lingo.jpg)
+<br>
+<br>
+___
+
+**KitapBaz - Kitap Alıntıları**
+<br>
+Kitap alıntıları Sosyal Platform
+<br>
+<br>
+**[Github](https://github.com/ruwiss/kitapbaz_os)**
+<br>
+<br>
+![Gün Sayacı](media/kitapbaz.png)
+<br>
+<br>
 ___
