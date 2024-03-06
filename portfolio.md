@@ -9,10 +9,12 @@
 
 
 ## Örnek Projeler
-**Dini Atlas (Bu Proje Yapım Aşamasında)**
+**Ezan Vakti ve Kuran - Dini Atlas**
 <br>
 <br>
 **[Github (Private)](https://github.com/ruwiss/dini_atlas)**
+<br>
+**[Play Store](https://play.google.com/store/apps/details?id=com.rw.dini_atlas)**
 <br>
 <br>
 ![Gün Sayacı](media/dini-atlas.png)
