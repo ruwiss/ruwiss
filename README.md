@@ -1,16 +1,21 @@
-### Hi there 👋
+### about_me.dart
 
-<!--
-**ruwiss/ruwiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```dart
+class AboutMe {
+  final fullName = 'Ömer Gündoğar';
+  final title = 'Flutter & Python Developer';
+  final location = 'Konya, Turkey 🇹🇷';
+  final skills = [
+    'Flutter Developer (3+ Years)',
+    'Python Developer (2+ Years)',
+    'Mentoring',
+    'Googling',
+  ];
+  final social = {
+    'LinkedIn': 'https://www.linkedin.com/in/omergundgr',
+    'GitHub': 'https://github.com/ruwiss',
+    'YouTube': 'https://www.youtube.com/@druwis',
+    'R10': 'https://www.r10.net/profil/118273-omergundogar.html',
+  };
+}
+```
