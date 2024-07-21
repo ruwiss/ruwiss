@@ -14,7 +14,7 @@ class AboutMe {
   final social = {
     'LinkedIn': 'https://www.linkedin.com/in/omergundgr',
     'GitHub': 'https://github.com/ruwiss',
-    'YouTube': 'https://www.youtube.com/@netyazilim'
+    'YouTube': 'https://www.youtube.com/@hq_net'
   };
 }
 ```
