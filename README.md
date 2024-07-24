@@ -3,7 +3,7 @@
 ```dart
 class AboutMe {
   final fullName = 'Ömer Gündoğar';
-  final title = 'Flutter & Python Developer';
+  final title = 'Mobile Developer';
   final location = 'Konya, Turkey 🇹🇷';
   final skills = [
     'Flutter Developer (3+ Years)',
