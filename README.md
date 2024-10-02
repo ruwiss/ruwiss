@@ -6,8 +6,7 @@ class AboutMe {
   final title = 'Mobile Developer';
   final location = 'Konya, Turkey 🇹🇷';
   final skills = [
-    'Flutter Developer (3+ Years)',
-    'Python Developer (2+ Years)',
+    'Flutter Developer (4+ Years)',
     'Mentoring',
     'Googling'
   ];
