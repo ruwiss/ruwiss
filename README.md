@@ -4,7 +4,7 @@
 class AboutMe {
   final name = 'Ömer';
   final title = 'Full Stack Developer';
-  final location = 'Konya, Turkey 🇹🇷';
+  final location = 'Turkey 🇹🇷';
   final skills = [
     'Flutter (4+ Years)',
     'Python (2+ Years),
