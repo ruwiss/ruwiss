@@ -7,7 +7,7 @@ class AboutMe {
   final location = 'Turkey 🇹🇷';
   final skills = [
     'Flutter (4+ Years)',
-    'Python (2+ Years),
+    'Python (2+ Years)',
     'JS / TS (2+ Years)',
     'Mentoring',
     'Googling'
