@@ -2,11 +2,13 @@
 
 ```dart
 class AboutMe {
-  final fullName = 'Ömer Gündoğar';
-  final title = 'Mobile Developer';
+  final name = 'Ömer';
+  final title = 'Full Stack Developer';
   final location = 'Konya, Turkey 🇹🇷';
   final skills = [
-    'Flutter Developer (4+ Years)',
+    'Flutter (4+ Years)',
+    'Python (2+ Years),
+    'JS / TS (2+ Years)',
     'Mentoring',
     'Googling'
   ];
