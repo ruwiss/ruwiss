@@ -3,15 +3,9 @@
 ```dart
 class AboutMe {
   final name = 'Ömer';
-  final title = 'Full Stack Developer';
+  final title = 'Vibe Developer';
   final location = 'Turkey 🇹🇷';
-  final skills = [
-    'Flutter (4+ Years)',
-    'Python (2+ Years)',
-    'JS / TS (2+ Years)',
-    'Mentoring',
-    'Googling'
-  ];
+  final skills = ['AI'];
   final social = {
     'LinkedIn': 'https://www.linkedin.com/in/omergundgr',
     'GitHub': 'https://github.com/ruwiss',
