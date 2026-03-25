@@ -5,7 +5,7 @@ class AboutMe {
   final name = 'Ömer';
   final title = 'Vibe Developer';
   final location = 'Turkey 🇹🇷';
-  final skills = ['AI'];
+  final skills = ['Mobile Development', 'AI'];
   final social = {
     'LinkedIn': 'https://www.linkedin.com/in/omergundgr',
     'GitHub': 'https://github.com/ruwiss',
